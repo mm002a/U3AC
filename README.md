@@ -3,6 +3,7 @@
 ### October 2026: Mathematical Thinking
 -   Three talks:
    1. Paradoxes
+      * Final version uploaded.
    2. Linear Equations and Vector Spaces
    3. Chemical oscillations
 ### January 2027: Applications of Advanced Mathematics to Everyday Life.
